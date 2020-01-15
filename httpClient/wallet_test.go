@@ -1,7 +1,7 @@
 package httpClient
 
 import (
-	"github.com/velas/GoVelas//crypto"
+	"github.com/velas/GoVelas/crypto"
 	"testing"
 )
 
