@@ -2,8 +2,8 @@ package httpClient
 
 import (
 	"encoding/hex"
-	"github.com/velas/GoVelas//crypto"
-	"github.com/velas/GoVelas//crypto/helpers"
+	"github.com/velas/GoVelas/crypto"
+	"github.com/velas/GoVelas/crypto/helpers"
 	"reflect"
 	"testing"
 )

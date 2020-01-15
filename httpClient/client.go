@@ -3,7 +3,7 @@ package httpClient
 import (
 	"encoding/json"
 	"github.com/go-errors/errors"
-	"github.com/velas/GoVelas//httpClient/response"
+	"github.com/velas/GoVelas/httpClient/response"
 	"gopkg.in/resty.v1"
 )
 
