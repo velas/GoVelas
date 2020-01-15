@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"github.com/btcsuite/btcutil/base58"
-	"github.com/velas/GoVelas//crypto/helpers"
+	"github.com/velas/GoVelas/crypto/helpers"
 )
 
 // Transaction input
